@@ -19,7 +19,7 @@
 
 <p><a href="https://nirlotan.com/CopilotPacer/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/copilot-pacer-dark.svg"><img src="assets/copilot-pacer-light.svg" alt="Copilot Pacer" width="49%"></picture></a>&nbsp;&nbsp;<a href="https://nirlotan.com/markazine/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/markazine-dark.svg"><img src="assets/markazine-light.svg" alt="Markazine" width="49%"></picture></a></p>
 
-<p><a href="https://github.com/nirlotan/SocialVec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/socialvec-dark.svg"><img src="assets/socialvec-light.svg" alt="SocialVec" width="49%"></picture></a>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/aura-dark.svg"><img src="assets/aura-light.svg" alt="AURA, coming to the App Store" width="49%"></picture></p>
+<p><a href="https://github.com/nirlotan/SocialVec"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/socialvec-dark.svg"><img src="assets/socialvec-light.svg" alt="SocialVec" width="49%"></picture></a>&nbsp;&nbsp;<a href="https://nirlotan.com/aura/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/aura-dark.svg"><img src="assets/aura-light.svg" alt="AURA, a run coach for iPhone and Apple Watch, free on the App Store" width="49%"></picture></a></p>
 
 <br>
 
